@@ -1,7 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import { Environment, Lightformer, OrbitControls } from "@react-three/drei";
 import { Effects } from "../../containers";
-import { InnovaCrysta } from "../../components/Car";
 
 export const Screen = ({ children }) => {
   return (
